@@ -18,5 +18,5 @@
 I am a doctoral candidate at Utah State Univeristy in the Psychology department. I study basic behavioral processes using :rat:.
 
 - :woman_student: I expect to graduate this spring.
-- :computer: I am looking for data analyst/statistics jobs post-gradution.
+- :computer: I am looking for data analytics/statistics jobs post-gradution.
 - :e-mail: gmasutton97@gmail.com
