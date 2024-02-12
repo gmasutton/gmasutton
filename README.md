@@ -20,3 +20,10 @@ I am a doctoral candidate at Utah State Univeristy in the Psychology department.
 - :woman_student: I expect to graduate this spring.
 - :computer: I am looking for data analytics/statistics jobs post-gradution.
 - :e-mail: gmasutton97@gmail.com
+
+- ### Portfolio Guide: 
+
+- MLM_Proj_Sutton: This is the final project from my graduate level multilevel modeling class. I modeled Pavlovian (think Pavlov's dogs) responding across multiple daily experimental sessions, with learning trials nested within sessions using a Poisson distribution.
+- Quality_Analysis: This is a markdown file that I used to conduct statistical analysis with ANOVAs and t-tests for a publication evaluating how behavior increased following the removal of a high or low quality reward. This analysis is pubished in the Journal of the Experimental Analysis of Behavior. Full text can be provided on request.
+- SQAB_Poster_23: This is a poster presented at the 2023 Society of the Quantitative Analysis of Behavior showcasing some of my dissertation research. I developed a mathematical model to explain novel findings related to Pavlovian learning.
+- Sutton_CV_23: This is my periodically update CV with all of my academic publications, qualifications, and experience.
