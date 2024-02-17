@@ -24,7 +24,7 @@ I am a doctoral candidate at Utah State Univeristy in the Psychology department.
 ### Portfolio Guide: 
 
 - MLM_Proj_Sutton: This is the final project from my graduate level multilevel modeling class. I modeled Pavlovian (think Pavlov's dogs) responding across multiple daily experimental sessions, with learning trials nested within sessions using a Poisson distribution.
-- Quality_ Wrangle & Quality_Analysis: These are markdown files that I used to conduct import/clean data and conduct statistical analysis with ANOVAs and t-tests for a publication evaluating how behavior increased following the removal of a high or low quality reward. This analysis is pubished in the Journal of the Experimental Analysis of Behavior. Full text can be provided on request.
+- Quality_ Wrangle & Quality_Analysis: These are R markdown files that I used to conduct import/clean data and conduct statistical analysis with ANOVAs and t-tests for a publication evaluating how behavior increased following the removal of a high or low quality reward. This analysis is pubished in the Journal of the Experimental Analysis of Behavior. Full text can be provided on request.
 - SQAB_Poster_23: This is a poster presented at the 2023 Society of the Quantitative Analysis of Behavior showcasing some of my dissertation research. I developed a mathematical model to explain novel findings related to Pavlovian learning.
 - Sutton_CV_23: This is my periodically update CV with all of my academic publications, qualifications, and experience.
 - Additionally, I have a R package designed to simulate traffic as a private repository showcasing both R and RCPP coding. Access can be granted upon request.
