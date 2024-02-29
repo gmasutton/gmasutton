@@ -29,3 +29,4 @@ I am a doctoral candidate at Utah State Univeristy in the Psychology department.
 - SQAB_Poster_23: This is a poster presented at the 2023 Society of the Quantitative Analysis of Behavior showcasing some of my dissertation research. I developed a mathematical model to explain novel findings related to Pavlovian learning.
 - Sutton_CV_23: This is my periodically update CV with all of my academic publications, qualifications, and experience.
 - Additionally, I have a R package designed to simulate traffic as a private repository showcasing both R and RCPP coding. Access can be granted upon request.
+- I directed and contirbuted to the development of an R package to import, transform, and vizualize data from a popular animal research software (MedPC). The repository can be found here: github.com/jessjorge/Lab.Data.Prep.
