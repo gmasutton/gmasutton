@@ -15,11 +15,7 @@
 
 
 ### :woman_scientist: About Me : 
-I am a doctoral candidate at Utah State Univeristy in the Psychology department. I study basic behavioral processes using :rat:.
-
-- :woman_student: I expect to graduate this spring.
-- :computer: I am looking for data analytics/statistics jobs post-gradution.
-- :e-mail: gmasutton97@gmail.com
+I am a Program Data Analyst at Advocates for Human Potential. I also recently completed my PhD studying basic behavioral processes using :rat:. You can reach me at: gmasutton97@gmail.com
 
 ### Portfolio Guide: 
 
