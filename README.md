@@ -24,4 +24,3 @@ I am an Analyst/Statistician II at Advocates for Human Potential. I also recentl
 - MLM_Proj_Sutton: This is the final project from my graduate level multilevel modeling class. I modeled Pavlovian (think Pavlov's dogs) responding across multiple daily experimental sessions, with learning trials nested within sessions using a Poisson distribution.
 - Additionally, I have a R package designed to simulate traffic as a private repository showcasing both R and RCPP coding. Access can be granted upon request.
 - I directed and contirbuted to the development of an R package to import, transform, and vizualize data from a popular animal research software (MedPC). The repository can be found here: [github.com/jessjorge/Lab.Data.Prep.](https://github.com/jessjorge/Lab.Data.Prep)
-- Sutton_CV_23: This is my CV from back in my academic days with all of my academic publications, qualifications, and experience.
