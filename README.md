@@ -15,15 +15,13 @@
 
 
 ### :woman_scientist: About Me : 
-I am a Program Data Analyst at Advocates for Human Potential. I also recently completed my PhD studying basic behavioral processes using :rat:. You can reach me at: gmasutton97@gmail.com
+I am an Analyst/Statistician II at Advocates for Human Potential. I also recently completed my PhD studying basic behavioral processes using :rat:. You can reach me at: gmasutton97@gmail.com
 
 ### Portfolio Guide: 
 
 - HPSA_SQL: This project examined Health Professional Shortage Areas (HPSAs) in the state of Massachusetts. I cleaned, merged, transformed, and vizualized data provided by the Health Resources and Service Administration. Vizualization can be found on my [Tableau Public](https://public.tableau.com/app/profile/gabrielle.sutton/vizzes).
 - Quality_ Wrangle & Quality_Analysis: These are R markdown files that I used to conduct import/clean data and conduct statistical analysis with ANOVAs and t-tests for a publication evaluating how behavior increased following the removal of a high or low quality reward. This analysis is pubished in the Journal of the Experimental Analysis of Behavior. Full text can be provided on request.
-- ShelterDataDash: This is an Excel dashboard of animal adoption data obtained from Kaggle. This dashboard highights adoption trends, including top dog breeds and cat colors. Both could inform shelter resource allocation. As black cats are the most adopted, they should be prioritized for sterilization. The same is true for the top dog breed identified.
 - MLM_Proj_Sutton: This is the final project from my graduate level multilevel modeling class. I modeled Pavlovian (think Pavlov's dogs) responding across multiple daily experimental sessions, with learning trials nested within sessions using a Poisson distribution.
-- SQAB_Poster_23: This is a poster presented at the 2023 Society of the Quantitative Analysis of Behavior showcasing some of my dissertation research. I developed a mathematical model to explain novel findings related to Pavlovian learning.
-- Sutton_CV_23: This is my periodically update CV with all of my academic publications, qualifications, and experience.
 - Additionally, I have a R package designed to simulate traffic as a private repository showcasing both R and RCPP coding. Access can be granted upon request.
 - I directed and contirbuted to the development of an R package to import, transform, and vizualize data from a popular animal research software (MedPC). The repository can be found here: [github.com/jessjorge/Lab.Data.Prep.](https://github.com/jessjorge/Lab.Data.Prep)
+- Sutton_CV_23: This is my CV from back in my academic days with all of my academic publications, qualifications, and experience.
